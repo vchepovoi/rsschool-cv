@@ -1,0 +1,27 @@
+body {
+  max-width: 1024px;
+  margin: 20px auto;
+  display: flex;
+  background-color: #81A19E;
+}
+
+.main-content {
+  margin-right: 30px;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+li {
+  margin-bottom: 25px;
+  font-size: 18px;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  height: 250px;
+}
